@@ -24,10 +24,10 @@ function App() {
       >
         <Header
           style={{
-            padding: 100,
+            padding: 80,
             backgroundImage: `url(${PokemonSV})`,
             backgroundRepeat: "no-repeat",
-            backgroundSize: "auto",
+            backgroundSize: "contain",
             backgroundPosition: "center",
           }}
         ></Header>
